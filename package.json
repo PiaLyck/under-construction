@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/PiaLyck/under-construction/issues"
   },
-  "homepage": "https://github.com/PiaLyck/under-construction#readme"
+  "homepage": "https://github.com/PiaLyck/under-construction#readme",
+  "dependencies": {}
 }
